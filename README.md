@@ -13,6 +13,7 @@ The data were manually collected by the author from official websites of provinc
 ## Variables
 
 | Variable | Description |
+|---|---|
 | `province_cn` | Province name in Chinese |
 | `city_cn` | Prefecture-level city name in Chinese |
 | `county_cn` | County or district name in Chinese |
